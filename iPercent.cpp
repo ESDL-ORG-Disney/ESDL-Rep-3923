@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
-void main()
+int main()
 {
+   cout<<"1st Edited....";
    cout<<" :-P :-P";
+   return 0;
 }
